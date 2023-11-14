@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/repo-name/static/css/main.48ca793a.css",
-    "main.js": "/repo-name/static/js/main.d7688bbe.js",
-    "index.html": "/repo-name/index.html",
-    "main.48ca793a.css.map": "/repo-name/static/css/main.48ca793a.css.map",
-    "main.d7688bbe.js.map": "/repo-name/static/js/main.d7688bbe.js.map"
+    "main.css": "/spotify/static/css/main.48ca793a.css",
+    "main.js": "/spotify/static/js/main.d7688bbe.js",
+    "index.html": "/spotify/index.html",
+    "main.48ca793a.css.map": "/spotify/static/css/main.48ca793a.css.map",
+    "main.d7688bbe.js.map": "/spotify/static/js/main.d7688bbe.js.map"
   },
   "entrypoints": [
     "static/css/main.48ca793a.css",
